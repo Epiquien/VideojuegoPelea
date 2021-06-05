@@ -1,0 +1,3564 @@
+fileFormatVersion: 2
+guid: a1bb007b33a1f3a4e839fc51540e7f18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3708601104412578169
+    second: SANJIf_0
+  - first:
+      213: -7034272114758626035
+    second: SANJIf_1
+  - first:
+      213: 7218163239968967556
+    second: SANJIf_2
+  - first:
+      213: -3260632058749871810
+    second: SANJIf_3
+  - first:
+      213: 8900436867220210948
+    second: SANJIf_4
+  - first:
+      213: -1956437049136944709
+    second: SANJIf_5
+  - first:
+      213: -4921636557269660558
+    second: SANJIf_6
+  - first:
+      213: 7278443112361540664
+    second: SANJIf_7
+  - first:
+      213: -3956828971708682502
+    second: SANJIf_8
+  - first:
+      213: -4585998205320223108
+    second: SANJIf_9
+  - first:
+      213: -417107979947379667
+    second: SANJIf_10
+  - first:
+      213: 5385125240075959413
+    second: SANJIf_11
+  - first:
+      213: 4931434654081150219
+    second: SANJIf_12
+  - first:
+      213: 5236569209726489197
+    second: SANJIf_13
+  - first:
+      213: -1607072509315305679
+    second: SANJIf_14
+  - first:
+      213: 5899803312940434496
+    second: SANJIf_15
+  - first:
+      213: 6293532832706097222
+    second: SANJIf_16
+  - first:
+      213: 5747594141767268858
+    second: SANJIf_17
+  - first:
+      213: -8325927146191791279
+    second: SANJIf_18
+  - first:
+      213: -6767910498182096932
+    second: SANJIf_19
+  - first:
+      213: 50192522784435911
+    second: SANJIf_20
+  - first:
+      213: -5128022768997827310
+    second: SANJIf_21
+  - first:
+      213: 931860646072467367
+    second: SANJIf_22
+  - first:
+      213: -4587609853534809367
+    second: SANJIf_23
+  - first:
+      213: 6310568457311670691
+    second: SANJIf_24
+  - first:
+      213: -8605691613487993744
+    second: SANJIf_25
+  - first:
+      213: 5771560122378238354
+    second: SANJIf_26
+  - first:
+      213: -917477019437408640
+    second: SANJIf_27
+  - first:
+      213: -3813906981388447787
+    second: SANJIf_28
+  - first:
+      213: -4526216313929898285
+    second: SANJIf_29
+  - first:
+      213: -1723987365037374930
+    second: SANJIf_30
+  - first:
+      213: -8740208316835365056
+    second: SANJIf_31
+  - first:
+      213: 2167146653613585568
+    second: SANJIf_32
+  - first:
+      213: -5499842886891135762
+    second: SANJIf_33
+  - first:
+      213: -7446088502606246063
+    second: SANJIf_34
+  - first:
+      213: -3190719791828682196
+    second: SANJIf_35
+  - first:
+      213: 5719267160378854063
+    second: SANJIf_36
+  - first:
+      213: 882606003309551307
+    second: SANJIf_37
+  - first:
+      213: 7724544543655474842
+    second: SANJIf_38
+  - first:
+      213: -43510931535350405
+    second: SANJIf_39
+  - first:
+      213: 922464066963856866
+    second: SANJIf_40
+  - first:
+      213: 5501408457580255907
+    second: SANJIf_41
+  - first:
+      213: -5757689066707461931
+    second: SANJIf_42
+  - first:
+      213: -8553354053942999305
+    second: SANJIf_43
+  - first:
+      213: -5765270265571245570
+    second: SANJIf_44
+  - first:
+      213: -5376923474668897118
+    second: SANJIf_45
+  - first:
+      213: 580350079965244686
+    second: SANJIf_46
+  - first:
+      213: 7267044642333253658
+    second: SANJIf_47
+  - first:
+      213: 5181524292729324406
+    second: SANJIf_48
+  - first:
+      213: -961744743685525034
+    second: SANJIf_49
+  - first:
+      213: -629475757687751310
+    second: SANJIf_50
+  - first:
+      213: -6267296117597677802
+    second: SANJIf_51
+  - first:
+      213: 7912899331744890764
+    second: SANJIf_52
+  - first:
+      213: 5466160216894787221
+    second: SANJIf_53
+  - first:
+      213: 5384784994225312584
+    second: SANJIf_54
+  - first:
+      213: 6963107008847882458
+    second: SANJIf_55
+  - first:
+      213: 1702144576011388338
+    second: SANJIf_56
+  - first:
+      213: 8080728817569497467
+    second: SANJIf_57
+  - first:
+      213: 7690216169228227225
+    second: SANJIf_58
+  - first:
+      213: -3442470934751480413
+    second: SANJIf_59
+  - first:
+      213: 1038287808335205563
+    second: SANJIf_60
+  - first:
+      213: -1944435146435350606
+    second: SANJIf_61
+  - first:
+      213: 6940244657530494942
+    second: SANJIf_62
+  - first:
+      213: 8117068411312654500
+    second: SANJIf_63
+  - first:
+      213: -5851672587801330604
+    second: SANJIf_64
+  - first:
+      213: 2914987907697293226
+    second: SANJIf_65
+  - first:
+      213: 9141774447540440394
+    second: SANJIf_66
+  - first:
+      213: -8796106002649293111
+    second: SANJIf_67
+  - first:
+      213: -2126588084242803197
+    second: SANJIf_68
+  - first:
+      213: 5948948705260512
+    second: SANJIf_69
+  - first:
+      213: -1437510706991890983
+    second: SANJIf_70
+  - first:
+      213: 6909043436698634549
+    second: SANJIf_71
+  - first:
+      213: -901695376378337479
+    second: SANJIf_72
+  - first:
+      213: -1278263545717633746
+    second: SANJIf_73
+  - first:
+      213: -3364263663343279707
+    second: SANJIf_74
+  - first:
+      213: -1648930382792690077
+    second: SANJIf_75
+  - first:
+      213: 7054474288177194989
+    second: SANJIf_76
+  - first:
+      213: -1403605923738976870
+    second: SANJIf_77
+  - first:
+      213: -3453663616218312614
+    second: SANJIf_78
+  - first:
+      213: -9094666117370237232
+    second: SANJIf_79
+  - first:
+      213: 7758336962121973066
+    second: SANJIf_80
+  - first:
+      213: -7847270615144406435
+    second: SANJIf_81
+  - first:
+      213: 5176015560013597479
+    second: SANJIf_82
+  - first:
+      213: 2471637526162406035
+    second: SANJIf_83
+  - first:
+      213: 5131274091346724344
+    second: SANJIf_84
+  - first:
+      213: 6709022837980427019
+    second: SANJIf_85
+  - first:
+      213: 3473812559074943026
+    second: SANJIf_86
+  - first:
+      213: 8861721452877186943
+    second: SANJIf_87
+  - first:
+      213: -7501529263381092412
+    second: SANJIf_88
+  - first:
+      213: -8779157247006553478
+    second: SANJIf_89
+  - first:
+      213: -2976429028716481296
+    second: SANJIf_90
+  - first:
+      213: 2662104694861183117
+    second: SANJIf_91
+  - first:
+      213: -1426117374883055064
+    second: SANJIf_92
+  - first:
+      213: 2253127683794437747
+    second: SANJIf_93
+  - first:
+      213: 3448019838150781712
+    second: SANJIf_94
+  - first:
+      213: -2222174110152560067
+    second: SANJIf_95
+  - first:
+      213: 7586328797260526773
+    second: SANJIf_96
+  - first:
+      213: -3668354422607889574
+    second: SANJIf_97
+  - first:
+      213: -9155822103265389556
+    second: SANJIf_98
+  - first:
+      213: 4545344718717648299
+    second: SANJIf_99
+  - first:
+      213: -3995985061190586666
+    second: SANJIf_100
+  - first:
+      213: -2114650044082522033
+    second: SANJIf_101
+  - first:
+      213: -3761609991553919008
+    second: SANJIf_102
+  - first:
+      213: -8127825643770904404
+    second: SANJIf_103
+  - first:
+      213: -7760339679807880974
+    second: SANJIf_104
+  - first:
+      213: 5654889088285736119
+    second: SANJIf_105
+  - first:
+      213: 7130180927438293185
+    second: SANJIf_106
+  - first:
+      213: -514481058543590646
+    second: SANJIf_107
+  - first:
+      213: -3013894762913083527
+    second: SANJIf_108
+  - first:
+      213: -7168316661260239973
+    second: SANJIf_109
+  - first:
+      213: -3092551082317831991
+    second: SANJIf_110
+  - first:
+      213: -1763296558924952999
+    second: SANJIf_111
+  - first:
+      213: 7209506499030632770
+    second: SANJIf_112
+  - first:
+      213: 6635001835619285002
+    second: SANJIf_113
+  - first:
+      213: 190161779904457719
+    second: SANJIf_114
+  - first:
+      213: 1773012828098243987
+    second: SANJIf_115
+  - first:
+      213: 1684430745799071442
+    second: SANJIf_116
+  - first:
+      213: 1923203715803866111
+    second: SANJIf_117
+  - first:
+      213: -8175646596606849682
+    second: SANJIf_118
+  - first:
+      213: 699149750196241168
+    second: SANJIf_119
+  - first:
+      213: -5543443663535825720
+    second: SANJIf_120
+  - first:
+      213: 2047335806851135640
+    second: SANJIf_121
+  - first:
+      213: 442596085667450598
+    second: SANJIf_122
+  - first:
+      213: 2302452099675078323
+    second: SANJIf_123
+  - first:
+      213: -4082213295624333082
+    second: SANJIf_124
+  - first:
+      213: -4741383741121396433
+    second: SANJIf_125
+  - first:
+      213: 7945239710371377324
+    second: SANJIf_126
+  - first:
+      213: -4332100577373448974
+    second: SANJIf_127
+  - first:
+      213: 8969249002776066911
+    second: SANJIf_128
+  - first:
+      213: -5802805554472794099
+    second: SANJIf_129
+  - first:
+      213: 6418527962747652763
+    second: SANJIf_130
+  - first:
+      213: 2233000700966399423
+    second: SANJIf_131
+  - first:
+      213: -6279742784157745502
+    second: SANJIf_132
+  - first:
+      213: -8601268633812064088
+    second: SANJIf_133
+  - first:
+      213: 4565451716172178087
+    second: SANJIf_134
+  - first:
+      213: 4787442682893222812
+    second: SANJIf_135
+  - first:
+      213: -7018591928688941576
+    second: SANJIf_136
+  - first:
+      213: 6549437515946141494
+    second: SANJIf_137
+  - first:
+      213: -114491656470429450
+    second: SANJIf_138
+  - first:
+      213: -5257373581681156834
+    second: SANJIf_139
+  - first:
+      213: -7356521747057173022
+    second: SANJIf_140
+  - first:
+      213: -5930787457824879601
+    second: SANJIf_141
+  - first:
+      213: 4294894044141649934
+    second: SANJIf_142
+  - first:
+      213: -3034046959595775652
+    second: SANJIf_143
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SANJIf_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 3412
+        width: 105
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78eedddc1f6688cc0800000000000000
+      internalID: -3708601104412578169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 3412
+        width: 107
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d055062e7ce316e90800000000000000
+      internalID: -7034272114758626035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_2
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 3412
+        width: 105
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b022929311c2460800000000000000
+      internalID: 7218163239968967556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_3
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 3407
+        width: 107
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3996fa0b68efb2d0800000000000000
+      internalID: -3260632058749871810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_4
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 3407
+        width: 100
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40583789c24b48b70800000000000000
+      internalID: 8900436867220210948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_5
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 3402
+        width: 100
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb967c49ed659d4e0800000000000000
+      internalID: -1956437049136944709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_6
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 3407
+        width: 100
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c8d5a80a5d2bbb0800000000000000
+      internalID: -4921636557269660558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_7
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 3397
+        width: 108
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cb236a279320560800000000000000
+      internalID: 7278443112361540664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3119
+        width: 173
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe6450b3058619c0800000000000000
+      internalID: -3956828971708682502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 3158
+        width: 224
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c762f4f0ee24b50c0800000000000000
+      internalID: -4585998205320223108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_10
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 3119
+        width: 184
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24714e8082263af0800000000000000
+      internalID: -417107979947379667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_11
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 3124
+        width: 122
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cb7bdcfdecbba40800000000000000
+      internalID: 5385125240075959413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_12
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 3119
+        width: 179
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dee85a0b9ff6440800000000000000
+      internalID: 4931434654081150219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_13
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 3163
+        width: 218
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62de73a3f70ca840800000000000000
+      internalID: 5236569209726489197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_14
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 3119
+        width: 190
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f27f1411882b9e0800000000000000
+      internalID: -1607072509315305679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_15
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 3119
+        width: 128
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044cc78cadf40e150800000000000000
+      internalID: 5899803312940434496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_16
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 3119
+        width: 166
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64074bb44ce175750800000000000000
+      internalID: 6293532832706097222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_17
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 3151
+        width: 217
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9772d7b6e83cf40800000000000000
+      internalID: 5747594141767268858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_18
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 3119
+        width: 186
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bd4798f5d547c80800000000000000
+      internalID: -8325927146191791279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_19
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 3119
+        width: 124
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd71834824d8312a0800000000000000
+      internalID: -6767910498182096932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_20
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 3119
+        width: 178
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce62f265d152b000800000000000000
+      internalID: 50192522784435911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_21
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 3151
+        width: 217
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21df4c5067a95d8b0800000000000000
+      internalID: -5128022768997827310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_22
+      rect:
+        serializedVersion: 2
+        x: 3453
+        y: 3119
+        width: 188
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afb0550252aeec00800000000000000
+      internalID: 931860646072467367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_23
+      rect:
+        serializedVersion: 2
+        x: 3741
+        y: 3119
+        width: 130
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2d9f7f4298550c0800000000000000
+      internalID: -4587609853534809367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2826
+        width: 234
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1d8dcb394a39750800000000000000
+      internalID: 6310568457311670691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_25
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2831
+        width: 239
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c6d7b8211729880800000000000000
+      internalID: -8605691613487993744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_26
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2831
+        width: 234
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2993a2e2a53b81050800000000000000
+      internalID: 5771560122378238354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_27
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 2831
+        width: 234
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e59d603877443f0800000000000000
+      internalID: -917477019437408640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_28
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 2802
+        width: 122
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df85ffaec7421bc0800000000000000
+      internalID: -3813906981388447787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_29
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 2802
+        width: 200
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d661af4e36af21c0800000000000000
+      internalID: -4526216313929898285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_30
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 2802
+        width: 239
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e228fa520aa2318e0800000000000000
+      internalID: -1723987365037374930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_31
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 2802
+        width: 232
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ffc1ce7da84b680800000000000000
+      internalID: -8740208316835365056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_32
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 2802
+        width: 169
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a470d04660431e10800000000000000
+      internalID: 2167146653613585568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_33
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 2802
+        width: 122
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec1566a802aca3b0800000000000000
+      internalID: -5499842886891135762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_34
+      rect:
+        serializedVersion: 2
+        x: 3058
+        y: 2797
+        width: 123
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fc80c35fd2aa890800000000000000
+      internalID: -7446088502606246063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_35
+      rect:
+        serializedVersion: 2
+        x: 3258
+        y: 2797
+        width: 200
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a3e36214948b3d0800000000000000
+      internalID: -3190719791828682196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_36
+      rect:
+        serializedVersion: 2
+        x: 3490
+        y: 2797
+        width: 242
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa40fd2e2bee5f40800000000000000
+      internalID: 5719267160378854063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_37
+      rect:
+        serializedVersion: 2
+        x: 3741
+        y: 2797
+        width: 240
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce94e7db75af3c00800000000000000
+      internalID: 882606003309551307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_38
+      rect:
+        serializedVersion: 2
+        x: 4020
+        y: 2797
+        width: 166
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9634480658133b60800000000000000
+      internalID: 7724544543655474842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_39
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 2797
+        width: 124
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b753dfdc90b656ff0800000000000000
+      internalID: -43510931535350405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_40
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2470
+        width: 144
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed51757e204dcc00800000000000000
+      internalID: 922464066963856866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_41
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2470
+        width: 112
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa966e28dde85c40800000000000000
+      internalID: 5501408457580255907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_42
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2470
+        width: 122
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d850c3ac449810b0800000000000000
+      internalID: -5757689066707461931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_43
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 2470
+        width: 95
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f684983ec16c4980800000000000000
+      internalID: -8553354053942999305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_44
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2518
+        width: 44
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1018a3d35adffa0800000000000000
+      internalID: -5765270265571245570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_45
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 2470
+        width: 84
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acb6e386945165b0800000000000000
+      internalID: -5376923474668897118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_46
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 2470
+        width: 168
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0da2b9a251dd0800800000000000000
+      internalID: 580350079965244686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_47
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 2470
+        width: 147
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10ed29899ab9d460800000000000000
+      internalID: 7267044642333253658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_48
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 2462
+        width: 151
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673403f24e878e740800000000000000
+      internalID: 5181524292729324406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_49
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 2462
+        width: 112
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1760c404237a2f0800000000000000
+      internalID: -961744743685525034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_50
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 2462
+        width: 124
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d3d4c2227a347f0800000000000000
+      internalID: -629475757687751310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_51
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 2518
+        width: 46
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617d768f2671609a0800000000000000
+      internalID: -6267296117597677802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_52
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 2462
+        width: 95
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f7414940440dd60800000000000000
+      internalID: 7912899331744890764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_53
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 2462
+        width: 86
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ec26d91c3bbdb40800000000000000
+      internalID: 5466160216894787221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_54
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 2462
+        width: 166
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84357a42c699aba40800000000000000
+      internalID: 5384784994225312584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_55
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 2462
+        width: 144
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad82963beece1a060800000000000000
+      internalID: 6963107008847882458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_56
+      rect:
+        serializedVersion: 2
+        x: 3781
+        y: 1786
+        width: 1149
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b54489397b3f9710800000000000000
+      internalID: 1702144576011388338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_57
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2113
+        width: 134
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b710e79cb04842070800000000000000
+      internalID: 8080728817569497467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_58
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2113
+        width: 151
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99250d48cd229ba60800000000000000
+      internalID: 7690216169228227225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_59
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 2113
+        width: 134
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5f7808ce2e930d0800000000000000
+      internalID: -3442470934751480413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_60
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 2113
+        width: 178
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb45076b24db86e00800000000000000
+      internalID: 1038287808335205563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_61
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 2113
+        width: 151
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfafef498af305e0800000000000000
+      internalID: -1944435146435350606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_62
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2113
+        width: 178
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf586abeb3b05060800000000000000
+      internalID: 6940244657530494942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_63
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 2113
+        width: 156
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8c5d9c6be95a070800000000000000
+      internalID: 8117068411312654500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_64
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 2118
+        width: 139
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cf53ee8ceaacea0800000000000000
+      internalID: -5851672587801330604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_65
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 2118
+        width: 156
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa73bdace0e147820800000000000000
+      internalID: 2914987907697293226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_66
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 2118
+        width: 127
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d0462cc6b1ede70800000000000000
+      internalID: 9141774447540440394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_67
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 2118
+        width: 178
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce5861c134fde580800000000000000
+      internalID: -8796106002649293111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_68
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 2118
+        width: 152
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306112f8767dc72e0800000000000000
+      internalID: -2126588084242803197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_69
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 2118
+        width: 181
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e33d5e8982251000800000000000000
+      internalID: 5948948705260512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_70
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 2118
+        width: 156
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd7de4d0afec0ce0800000000000000
+      internalID: -1437510706991890983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_71
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1796
+        width: 132
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5398a26666ad1ef50800000000000000
+      internalID: 6909043436698634549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_72
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1796
+        width: 200
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9376b5325d88c73f0800000000000000
+      internalID: -901695376378337479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_73
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1796
+        width: 190
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d4b24e312b24ee0800000000000000
+      internalID: -1278263545717633746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_74
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1796
+        width: 127
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a16ba7d50cbf41d0800000000000000
+      internalID: -3364263663343279707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_75
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1796
+        width: 269
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366fa42ad82dd19e0800000000000000
+      internalID: -1648930382792690077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_76
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1796
+        width: 295
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7ade72df686e160800000000000000
+      internalID: 7054474288177194989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_77
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1796
+        width: 278
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d77e659d3658ce0800000000000000
+      internalID: -1403605923738976870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_78
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 1796
+        width: 278
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50dd954d3f1210d0800000000000000
+      internalID: -3453663616218312614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_79
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 1796
+        width: 288
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dead531a5149c180800000000000000
+      internalID: -9094666117370237232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_80
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 1796
+        width: 278
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d30139c562bab60800000000000000
+      internalID: 7758336962121973066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_81
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 1796
+        width: 250
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52e4ffb3f4e81390800000000000000
+      internalID: -7847270615144406435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_82
+      rect:
+        serializedVersion: 2
+        x: 3324
+        y: 1796
+        width: 178
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b41866ab6e4d740800000000000000
+      internalID: 5176015560013597479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_83
+      rect:
+        serializedVersion: 2
+        x: 3541
+        y: 1796
+        width: 135
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a7f681c350d4220800000000000000
+      internalID: 2471637526162406035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_84
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1491
+        width: 134
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f503e37992f53740800000000000000
+      internalID: 5131274091346724344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_85
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1491
+        width: 195
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b037ec7a9bc3b1d50800000000000000
+      internalID: 6709022837980427019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_86
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1491
+        width: 195
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230e3ff0e16753030800000000000000
+      internalID: 3473812559074943026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_87
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1491
+        width: 124
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f770431c5b82bfa70800000000000000
+      internalID: 8861721452877186943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_88
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1491
+        width: 268
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7e8f731e635e790800000000000000
+      internalID: -7501529263381092412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_89
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1491
+        width: 295
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ac0e07ffa2a2680800000000000000
+      internalID: -8779157247006553478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_90
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1491
+        width: 278
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f47134719991b6d0800000000000000
+      internalID: -2976429028716481296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_91
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1491
+        width: 278
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88b9149d12b1f420800000000000000
+      internalID: 2662104694861183117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_92
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 1491
+        width: 291
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a351eadc9653ce0800000000000000
+      internalID: -1426117374883055064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_93
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 1614
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3768a2ad0b7b44f10800000000000000
+      internalID: 2253127683794437747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_94
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 1491
+        width: 273
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b2a7f36c3d9df20800000000000000
+      internalID: 3448019838150781712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_95
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 1491
+        width: 251
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32794f9b604921e0800000000000000
+      internalID: -2222174110152560067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_96
+      rect:
+        serializedVersion: 2
+        x: 3302
+        y: 1491
+        width: 183
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4b706d8dd084960800000000000000
+      internalID: 7586328797260526773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_97
+      rect:
+        serializedVersion: 2
+        x: 3558
+        y: 1491
+        width: 144
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b3932a613671dc0800000000000000
+      internalID: -3668354422607889574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_98
+      rect:
+        serializedVersion: 2
+        x: 3746
+        y: 1491
+        width: 135
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0452348e4cffe080800000000000000
+      internalID: -9155822103265389556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_99
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1115
+        width: 122
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badfcdc70fe441f30800000000000000
+      internalID: 4545344718717648299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_100
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1176
+        width: 188
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dea7fb22c86b88c0800000000000000
+      internalID: -3995985061190586666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_101
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1129
+        width: 190
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4872322df047a2e0800000000000000
+      internalID: -2114650044082522033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_102
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1124
+        width: 283
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e75edd74a31ccbc0800000000000000
+      internalID: -3761609991553919008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_103
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1129
+        width: 308
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca089bad3a9243f80800000000000000
+      internalID: -8127825643770904404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_104
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1124
+        width: 307
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0cea06d2cbd4490800000000000000
+      internalID: -7760339679807880974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_105
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1129
+        width: 363
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcf0873aa33a7e40800000000000000
+      internalID: 5654889088285736119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_106
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 1129
+        width: 225
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c88934b6cd73f260800000000000000
+      internalID: 7130180927438293185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_107
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 1129
+        width: 288
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03a7ddf3323cd8f0800000000000000
+      internalID: -514481058543590646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_108
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 1129
+        width: 105
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fc7227eae7c26d0800000000000000
+      internalID: -3013894762913083527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_109
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 1129
+        width: 141
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bb118d9f5058c90800000000000000
+      internalID: -7168316661260239973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_110
+      rect:
+        serializedVersion: 2
+        x: 3615
+        y: 1107
+        width: 144
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c022b8fc2d0515d0800000000000000
+      internalID: -3092551082317831991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_111
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 780
+        width: 125
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a0c9b3f138787e0800000000000000
+      internalID: -1763296558924952999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_112
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 814
+        width: 190
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249479896ff4d0460800000000000000
+      internalID: 7209506499030632770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_113
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 746
+        width: 190
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08f6280403441c50800000000000000
+      internalID: 6635001835619285002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_114
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 746
+        width: 290
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbaf0d912793a200800000000000000
+      internalID: 190161779904457719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_115
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 746
+        width: 305
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39da109f5c10b9810800000000000000
+      internalID: 1773012828098243987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_116
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 746
+        width: 307
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6991cb6dc406710800000000000000
+      internalID: 1684430745799071442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_117
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 746
+        width: 364
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff36337079790ba10800000000000000
+      internalID: 1923203715803866111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_118
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 746
+        width: 225
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d0e10acb44a8e80800000000000000
+      internalID: -8175646596606849682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_119
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 746
+        width: 290
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01300495ef0e3b900800000000000000
+      internalID: 699149750196241168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_120
+      rect:
+        serializedVersion: 2
+        x: 3285
+        y: 746
+        width: 112
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc9e82cb5bb113b0800000000000000
+      internalID: -5543443663535825720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_121
+      rect:
+        serializedVersion: 2
+        x: 3446
+        y: 746
+        width: 146
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898bc4fa119996c10800000000000000
+      internalID: 2047335806851135640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_122
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 768
+        width: 147
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eecf218bca642600800000000000000
+      internalID: 442596085667450598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_123
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 409
+        width: 157
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be3c795cf3f3ff10800000000000000
+      internalID: 2302452099675078323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_124
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 409
+        width: 122
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e85fe8d2a01957c0800000000000000
+      internalID: -4082213295624333082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_125
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 397
+        width: 178
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2185aebb98333eb0800000000000000
+      internalID: -4741383741121396433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_126
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 397
+        width: 171
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca07300cb69234e60800000000000000
+      internalID: 7945239710371377324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_127
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 397
+        width: 181
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f414623a7941e3c0800000000000000
+      internalID: -4332100577373448974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_128
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 397
+        width: 174
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b7e78627c297c70800000000000000
+      internalID: 8969249002776066911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_129
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 397
+        width: 173
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d084cf0c71b487fa0800000000000000
+      internalID: -5802805554472794099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_130
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 397
+        width: 168
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a4c70ec21331950800000000000000
+      internalID: 6418527962747652763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_131
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 397
+        width: 124
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdec4c7e463dfe10800000000000000
+      internalID: 2233000700966399423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_132
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 380
+        width: 134
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae7475953fd9d8a0800000000000000
+      internalID: -6279742784157745502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_133
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 387
+        width: 122
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a82cefbfb722a880800000000000000
+      internalID: -8601268633812064088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_134
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 114
+        width: 157
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2e3a5a52ebb5f30800000000000000
+      internalID: 4565451716172178087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_135
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 114
+        width: 117
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93c46051c9607240800000000000000
+      internalID: 4787442682893222812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_136
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 96
+        width: 180
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f56213b3d3f89e90800000000000000
+      internalID: -7018591928688941576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_137
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 96
+        width: 168
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637269868b644ea50800000000000000
+      internalID: 6549437515946141494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_138
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 96
+        width: 173
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0855ee17e396ef0800000000000000
+      internalID: -114491656470429450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_139
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 96
+        width: 174
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d1f5c059e0a07b0800000000000000
+      internalID: -5257373581681156834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_140
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 96
+        width: 178
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed9834927268e990800000000000000
+      internalID: -7356521747057173022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_141
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 96
+        width: 168
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c8102da3c91bda0800000000000000
+      internalID: -5930787457824879601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_142
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 109
+        width: 118
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e000109b0678a9b30800000000000000
+      internalID: 4294894044141649934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANJIf_143
+      rect:
+        serializedVersion: 2
+        x: 4718
+        y: 31
+        width: 234
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5990758d56e4e5d0800000000000000
+      internalID: -3034046959595775652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
